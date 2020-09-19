@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "talks-pwapilipinas-org",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
