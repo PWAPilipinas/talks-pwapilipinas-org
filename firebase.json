@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "talks-pwapilipinas-org",
+    "site": "talks-pwapilipinas-org1",
     "public": "public",
     "ignore": [
       "firebase.json",
